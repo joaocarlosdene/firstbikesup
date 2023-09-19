@@ -11235,6 +11235,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 .parallax-container {
 	position: relative;
 	overflow: hidden;
+	
 }
 
 .material-parallax {
@@ -11249,6 +11250,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 .parallax-content {
 	position: relative;
 	z-index: 1;
+	
 }
 
 .material-parallax img {
@@ -11260,6 +11262,8 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 	min-height: 101%;
 	max-width: none;
 	transform: translate3d(-50%, 0, 0);
+	opacity: 25%;
+	
 }
 
 .parallax-disabled {
